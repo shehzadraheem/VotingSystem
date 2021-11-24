@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "151719617452",
+    "firebase_url": "https://votingsystem-65f59-default-rtdb.firebaseio.com",
+    "project_id": "votingsystem-65f59",
+    "storage_bucket": "votingsystem-65f59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151719617452:android:ab927ac9141a685f74d009",
+        "android_client_info": {
+          "package_name": "com.touhid.electionvotingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151719617452-kin0od0ult91jjn6gaotp1rgjsel3b7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp-u5udMR1tWNOTB40ysAM0RAgSv3EVQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151719617452-kin0od0ult91jjn6gaotp1rgjsel3b7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
